@@ -25,5 +25,6 @@
  ![LoadTest](https://user-images.githubusercontent.com/59419331/195584339-02ced8a0-b521-452d-a0bc-8f8d1f6fcc24.png)
 
  ## Stress Test
- ![StressTest](https://user-images.githubusercontent.com/59419331/195584489-f06c130d-ad01-4582-b837-811895c4144f.png)
+![StressTest](https://user-images.githubusercontent.com/59419331/195584972-3b20c3cc-52c8-46ad-9bba-f3aa449251ac.png)
+
 
